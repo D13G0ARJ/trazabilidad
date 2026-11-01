@@ -1,0 +1,16 @@
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de Excel
+~$*.xlsx
+
+# Capturas de verificación
+_qa/
+
+# Dependencias
+node_modules/
+
+# Artefactos de sesión de la herramienta de diseño
+.impeccable/questions/
