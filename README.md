@@ -6,8 +6,7 @@ gerencia puede responder a un cliente que reclama un atraso.
 
 **Estado:** levantamiento terminado, demo funcional lista, pendiente de aprobación del cliente.
 
-> ⚠️ **Repositorio interno.** Contiene la cotización, el análisis comercial y las notas de la
-> negociación. No hacer público.
+### ▶ [Ver la demo en vivo](https://d13g0arj.github.io/trazabilidad/)
 
 ---
 
